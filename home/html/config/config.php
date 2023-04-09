@@ -5,7 +5,7 @@
     // =========================================================
     // Declare
     
-    $url = 'https://spccvtour.info/home/html';
+    $url = 'https://panorama.gymmgmt.online/home/html';
 
    // Define Date
     date_default_timezone_set("Asia/Manila");
