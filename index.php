@@ -188,9 +188,8 @@
          * Speach Syntehesis
          */
         var text , msg, voices , isPlayingAudio = false , isSpeechActive = false;
-        // var url = 'http://spccvtour.info';
-
-        var url = 'http://localhost/thesis/gym_management_panorama';
+        var url = 'https://panorama.gymmgmt.online';
+        // var url = 'http://localhost/thesis/gym_management_panorama';
         
         let hasPanoRama = false;     
         
