@@ -4,7 +4,7 @@
     // =========================================================
     // Declare
     //$connection = mysqli_connect("localhost","root","","vrdb");
-    $connection = mysqli_connect("localhost","korpzpru_th_main","Y[@h=Ytz;(f}","korpzpru_th_main");
+    $connection = mysqli_connect("localhost","korpzpru_th_main","Y[@h=Ytz;(f}","korpzpru_gym_vtour");
 
     // Define Date
     date_default_timezone_set("Asia/Manila");
