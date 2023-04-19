@@ -73,7 +73,7 @@
     <div class="flex">
         <div id="id_main_navigation">
             <div id="id_logo">
-                <img src="home/assets/spcc-logo.png" alt="">
+                <img src="home/assets/logo.jpg" alt="">
             </div>
 
             <div id="id_navigation_a" class="navigation-pane">
@@ -162,7 +162,7 @@
                     <div class="row" style="margin-top: 50px;">
                         <div class="col-lg-12 bg-white d-flex justify-content-center">
                             <div id="maps" style="position: relative; min-width: 1200px !important; min-height: 600px !important; max-width: 1200px !important; max-height: 600px !important;">
-                                <img src="home/assets/images/map.png" width="100%" height="600px">
+                                <img src="home/assets/images/gym_map.jpg" width="100%" height="600px">
                             </div>
                         </div>
                     </div>

@@ -295,7 +295,7 @@
                     <div class="row" style="margin-top: 50px;">
                         <div class="col-lg-12 bg-white d-flex justify-content-center">
                             <div id="maps" style="position: relative; min-width: 1200px !important; min-height: 600px !important; max-width: 1200px !important; max-height: 600px !important;">
-                                <img src="../assets/images/map.png" width="1200px" height="600px">
+                                <img src="../assets/images/gym_map.jpg" width="1200px" height="600px">
                             </div>
                         </div>
                         <div class="col-12 text-center">
