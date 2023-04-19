@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/favicon.png">
-    <title>SPCC Virtual Tour</title>
+    <title>GNG Virtual Tour</title>
     <!-- Custom CSS -->
     <link href="../dist/css/style.min.css" rel="stylesheet">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -83,7 +83,7 @@
                     ?>
 
                     <div class="p-3">
-                        <h2 class="mt-3 text-center"> <B>SPCC Virtual Tour </B> </h2>
+                        <h2 class="mt-3 text-center"> <B>GNG Virtual Tour</B> </h2>
                         <p class="text-center">Enter your username and password to access your dashboard.</p>
                         <form action="server/login.php" method="post">
                             <div class="row">
