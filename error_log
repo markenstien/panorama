@@ -1346,3 +1346,147 @@
 [14-Jan-2023 08:40:47 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/spccvtour.info/home/html/config/config.php on line 174
 [19-Jan-2023 02:26:29 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/spccvtour.info/home/html/config/config.php on line 174
 [19-Jan-2023 02:26:34 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/spccvtour.info/home/html/config/config.php on line 174
+[09-Apr-2023 03:30:58 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:30:58 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:30:58 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:30:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:30:59 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:30:59 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:19 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:19 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:19 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:19 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:28 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:28 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:29 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:29 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:32 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:32 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[09-Apr-2023 03:32:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 3
+[09-Apr-2023 11:32:32 Asia/Manila] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 37
+[09-Apr-2023 11:32:32 Asia/Manila] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/korpzpru/panorama.gymmgmt.online/server/vrClass/PointOfInterest.php on line 40
+[12-Apr-2023 08:42:18 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 08:42:18 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 11:18:52 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 11:29:52 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 11:40:31 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 11:55:38 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 12:10:26 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 12:10:30 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[12-Apr-2023 12:26:47 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 05:56:39 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 05:56:43 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 05:56:43 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 05:56:43 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 05:56:43 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 05:56:44 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:09:16 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:21:09 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:35:18 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 06:49:21 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:02:36 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:15:29 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:31:43 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Uninitialized string offset: 62 in /home/korpzpru/panorama.gymmgmt.online/home/html/config/config.php on line 174
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:44:24 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 07:57:38 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 08:34:39 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 14
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'images' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Warning:  Invalid argument supplied for foreach() in /home/korpzpru/panorama.gymmgmt.online/index.php on line 130
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_voicescript' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 142
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_name' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 157
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_x' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'pic_map_y' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347
+[30-Apr-2023 09:38:16 Asia/Manila] PHP Notice:  Trying to get property 'id' of non-object in /home/korpzpru/panorama.gymmgmt.online/index.php on line 347

@@ -1,6 +1,6 @@
 <?php 
     session_start();
-    $connection = mysqli_connect("localhost","root","","th_panorama");
+    $connection = mysqli_connect("localhost","korpzpru_th_main","Y[@h=Ytz;(f}","korpzpru_gym_vtour");
     // database
     // =========================================================
     // Declare
