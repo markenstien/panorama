@@ -188,7 +188,7 @@
          * Speach Syntehesis
          */
         var text , msg, voices , isPlayingAudio = false , isSpeechActive = false;
-        var url = 'https://vividoptical.online';
+        var url = 'https://app.gnggym.pro';
         // var url = 'http://localhost/thesis/gym_management_panorama';
         
         let hasPanoRama = false;     

@@ -5,7 +5,7 @@
     // =========================================================
     // Declare
     
-    $url = 'https://panorama.gymmgmt.online/home/html';
+    $url = 'https://app.gnggym.pro';
 
    // Define Date
     date_default_timezone_set("Asia/Manila");
